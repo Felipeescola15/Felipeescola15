@@ -1,4 +1,13 @@
 ## Hi there 👋
+Meu nome é felipe jesus
+
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem 
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+Você pode entrar em contato comigo 📫
+silva.rosa.felipe@escola.pr.gov.br
+@Felipeescola1
 
 <!--
 **Felipeescola15/Felipeescola15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
